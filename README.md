@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sumaiya Tabassum 👋
 
-<!--
-**sumaiyadev/sumaiyadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer
 
-Here are some ideas to get you started:
+I am a Full Stack Developer passionate about building modern web applications using React.js and .NET Core.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- React.js
+- JavaScript
+- Tailwind CSS
+- C#
+- .NET Core
+- SQL Server
+- GitHub
+
+## 📂 Projects
+
+- Student Management App
+- Evento - Event Management System
+- Cubicle Bites
+
+## 🌱 Currently Learning
+
+- Advanced React
+- Full Stack Development
+
+## 📫 Connect With Me
+
+- LinkedIn 
